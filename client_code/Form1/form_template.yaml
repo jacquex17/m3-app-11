@@ -2,7 +2,7 @@ components:
 - components:
   - layout_properties: {grid_position: 'TRRQKU,OGMEUA'}
     name: button_1
-    properties: {text: button_1}
+    properties: {background: 'theme:Primary', text: button_1}
     type: Button
   - layout_properties: {grid_position: 'YABUBF,KLBNYR'}
     name: button_2
